@@ -3,7 +3,7 @@
 
 <h1>Internet Download Manager (IDM) Full Version 2024</h1>
 
-<p dir="ltr"><img src="https://via.placeholder.com/150" alt="IDM Full" style="max-width: 100%;"></p>
+<p dir="ltr"><img src="https://github.com/user-attachments/assets/94b836e8-3692-4cdd-97d0-93f8709de0e8" alt="IDM Full" style="max-width: 100%;"></p>
 
 # | Downloads | For Windows 32-bit | For Windows 64-bit |
 # |:-------------:| :-----:| :--------:|
